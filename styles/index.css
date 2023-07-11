@@ -97,3 +97,25 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 }
+.third-section{
+    height: 60vh;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.second-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fourth-heading{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+}
+.off{
+    color: #E55473
+}
+.prime{
+    margin-left: 235px;
+}
