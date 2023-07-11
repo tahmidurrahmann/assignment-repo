@@ -72,6 +72,7 @@ margin-bottom: 24px;
 .image-container{
     padding-top: 100px;
     padding-right: 300px;
+    padding-bottom: 80px;
 }
 .second-paragraph{
     color: rgba(39, 39, 39, 0.60);
@@ -92,8 +93,8 @@ margin-bottom: 48px;
     margin: auto;
 }
 .middle-title{
-    padding-left: 50px;
-    padding-bottom: 100px;
+    padding-left: 180px;
+    padding-bottom: 200px;
 }
 .bonuss{
     border-radius: 300px 300px 0px 0px;
@@ -119,17 +120,15 @@ line-height: 35px;
 text-decoration-line: underline;
 }
 .third-section{
-    height: 67vh;
+    height: 70vh;
     border-radius: 8px;
     background-color: rgba(229, 84, 115, 0.05);
-    margin-bottom: 0px;
     width: 100%;
     margin: auto;
-}
-.second-container{
     display: flex;
     align-items: center;
     justify-content: space-around;
+
 }
 .fourth-heading{
     color: #272727;
