@@ -76,8 +76,9 @@ margin-bottom: 48px;
     width: 80%;
     margin: auto;
 }
-.bon{
-    /* text-align: center; */
+.middle-title{
+    padding-left: 50px;
+    padding-bottom: 100px;
 }
 .bonuss{
     border-radius: 300px 300px 0px 0px;
