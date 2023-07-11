@@ -53,6 +53,10 @@ font-size: 40px;
 font-weight: 800;
 margin-top: 175px;
 }
+.image-container{
+    padding-top: 100px;
+    padding-right: 300px;
+}
 .second-paragraph{
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
@@ -98,7 +102,7 @@ line-height: 35px;
 text-decoration-line: underline;
 }
 .third-section{
-    height: 60vh;
+    height: 67vh;
     border-radius: 8px;
     background-color: rgba(229, 84, 115, 0.05);
     margin-bottom: 0px;
@@ -107,6 +111,10 @@ text-decoration-line: underline;
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+.middle-title{
+    width: 80%;
+    margin: auto;
 }
 .fourth-heading{
     color: #272727;
@@ -118,7 +126,7 @@ text-align: center;
     color: #E55473
 }
 .prime{
-    margin-left: 235px;
+    margin-left: 570px;
 }
 .fourth-section{
     margin-top: 0px;
