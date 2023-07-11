@@ -107,15 +107,13 @@ text-decoration-line: underline;
     border-radius: 8px;
     background-color: rgba(229, 84, 115, 0.05);
     margin-bottom: 0px;
+    width: 100%;
+    margin: auto;
 }
 .second-container{
     display: flex;
     align-items: center;
     justify-content: space-around;
-}
-.middle-title{
-    width: 80%;
-    margin: auto;
 }
 .fourth-heading{
     color: #272727;
@@ -127,7 +125,15 @@ text-align: center;
     color: #E55473
 }
 .prime{
-    margin-left: 570px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    margin-left: 230px;
+    margin-top: 0px;
 }
 .fourth-section{
     margin-top: 0px;
