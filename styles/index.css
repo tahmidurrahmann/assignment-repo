@@ -10,6 +10,21 @@ font-family: 'Work Sans', sans-serif;
 .first-section{
     background: rgba(229, 84, 115, 0.10);
 }
+.flowers{
+    height: 60vh;
+}
+.main-flower{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.flower-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    border-radius: 8px;
+    box-shadow: 4px 4px 8px gray;
+}
 .header-container{
     display: flex;
     height: 94vh;
